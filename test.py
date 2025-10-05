@@ -1,0 +1,1 @@
+print("Go To Hell")
